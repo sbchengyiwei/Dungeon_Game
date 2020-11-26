@@ -1,4 +1,4 @@
-## Coursework 2 - A Dungeon Game
+## Project3 - A Dungeon Game
 
 ### INTRO
 This is a github repo for the coursework.
