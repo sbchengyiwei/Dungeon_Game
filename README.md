@@ -79,6 +79,6 @@ The final jar file is in the path"/out/artifacts/DungeonGameV2_jar?/Minor Advent
     by: Angus & Corey & Matt
     
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="images/Screen%20Shot%202020-11-20%20at%2011.43.18%20AM.png" width="350" title="hover text">
+  <img src="images/Screen%20Shot%202020-11-20%20at%2011.43.18%20AM.png" width="350" alt="accessibility text">
 </p>
