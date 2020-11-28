@@ -1,7 +1,7 @@
 ## Dungeon_BEAR
 
 <p align="center">
-      <img src="images/1.png" width="360" alt="upground">
+      <img src="images/1.jpg" width="560" alt="upground">
 </p>
 
 ### INTRO
@@ -9,7 +9,7 @@ This is a github repo for the coursework.
 
 Dungeon_BEAR is a dungeon game which is deveploped from cs61B Pooject3. Its main goal is to offer a way to use a world in a set state multiple times by a player (like for a jump'n'run), a group of players (e.g. for a quest dungeon, an adventure map or a PvE arena) or even by groups of groups of players (e.g. for PvP arenas). DungeonsXL also provides custom game mechanics to make these worlds interesting. It might also be helpful if you want players to build something in creative mode quickly and uncomplicated without any influence on their main world data (inventory, levels etc.).
 
-## Features
+## FEATURES 
 - Create as many dungeons as you wish!
 - The instantiation system allows dungeons to be played by multiple groups of players at the same time without clashes.
 Dungeons are accessable through portals in one of your main worlds. 
@@ -32,8 +32,8 @@ Per dungeon resource packs
 
     
 <p align="center">
-      <img src="images/ipad_rackan.png" width="360" alt="upground">
-     <img src="images/ss_fe4257306889594164db0523a9ef7406ddc17e64.1920x1080.jpg" width="450" alt="upground">
+      <img src="images/ipad_rackan.png" width="380" alt="upground">
+     <img src="images/ss_fe4257306889594164db0523a9ef7406ddc17e64.1920x1080.jpg" width="490" alt="upground">
 
    
 </p>
