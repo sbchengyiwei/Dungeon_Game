@@ -1,5 +1,6 @@
 ## Dungeon_BEAR
 <img src="images/1.jpg" width="560" alt="upground">
+
 ### INTRO
 This is a github repo for the coursework.
 
