@@ -28,8 +28,8 @@ Dungeon_BEAR is a dungeon game which is deveploped from cs61B Pooject3. Its main
 
     
 <p align="center">
-      <img src="images/ipad_rackan.png" width="380" alt="upground">
-     <img src="images/ss_fe4257306889594164db0523a9ef7406ddc17e64.1920x1080.jpg" width="490" alt="upground">
+      <img src="images/ipad_rackan.png" width="280" alt="upground">
+     <img src="images/ss_fe4257306889594164db0523a9ef7406ddc17e64.1920x1080.jpg" width="390" alt="upground">
 
    
 </p>
