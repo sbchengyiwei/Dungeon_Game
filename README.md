@@ -2,7 +2,7 @@
 <img src="images/1.jpg" width="560" alt="upground">
 
 ### INTRO
-Dungeon_Game is a dungeon game which is deveploped from cs61B Pooject3. Its main goal is to offer a way to use a world in a set state multiple times by a player (like for a jump'n'run), a group of players (e.g. for a quest dungeon, an adventure map or a PvE arena) or even by groups of groups of players (e.g. for PvP arenas). DungeonsXL also provides custom game mechanics to make these worlds interesting. It might also be helpful if you want players to build something in creative mode quickly and uncomplicated without any influence on their main world data (inventory, levels etc.).
+Dungeon_Game is a dungeon game which is deveploped from cs61B Pooject3. Its main goal is to offer a way to use a world in a set state multiple times by a player (like for a jump'n'run), a group of players (e.g. for a quest dungeon, an adventure map or a PvE arena) or even by groups of groups of players (e.g. for PvP arenas). Dungeon_Game also provides custom game mechanics to make these worlds interesting. It might also be helpful if you want players to build something in creative mode quickly and uncomplicated without any influence on their main world data (inventory, levels etc.).
 
 ## FEATURES 
 - Create as many dungeons as you wish!
@@ -18,9 +18,7 @@ Dungeon_Game is a dungeon game which is deveploped from cs61B Pooject3. Its main
 - The classes support doges!
 - PvP
 - Time limits
-- A built-in custom mob system and support for MythicMobs. 
 - Different game types allow you to use your maps dynamically for different purposes. 
-- Announcements sothat users can join the next match easily. 
 - Per dungeon resource packs
 ...and many more!
 
