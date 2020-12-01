@@ -11,14 +11,13 @@ Dungeon_Game is a dungeon game which is deveploped from cs61B Pooject3. Its main
 - Invite players to edit single dungeons without the need to give them any further permissions. 
 - Allow players to build in creative mode safely without any influence to their game progress in the main worlds!
 - Set checkpoints, breakable blocks, triggers, messages and much more through signs in the edit mode. 
-- Per dungeon configuration (you should try that after you became familiar with the basics of this plugin). 
+- Per dungeon configuration. 
 - Link multiple floors together to create large dungeons with multiple levels. 
 - Use a dungeon as a tutorial and give them a PEX group when they finish it.
 - Players can play the dungeon with their own items or with configurable classes.
 - The classes support doges!
-- PvP
-- Time limits
+- PvP.
+- Time limits.
 - Different game types allow you to use your maps dynamically for different purposes. 
-- Per dungeon resource packs
 ...and many more!
 
