@@ -4,7 +4,7 @@
 ### INTRO
 Dungeon_Game is a dungeon game which is deveploped from cs61B Pooject3. Its main goal is to offer a way to use a world in a set state multiple times by a player (like for a jump'n'run), a group of players (e.g. for a quest dungeon, an adventure map or a PvE arena) or even by groups of groups of players (e.g. for PvP arenas). Dungeon_Game also provides custom game mechanics to make these worlds interesting. It might also be helpful if you want players to build something in creative mode quickly and uncomplicated without any influence on their main world data (inventory, levels etc.).
 
-## FEATURES 
+### FEATURES 
 - Create as many dungeons as you wish!
 - The instantiation system allows dungeons to be played by multiple groups of players at the same time without clashes.
 - Dungeons are accessable through portals in one of your main worlds. 
