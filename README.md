@@ -18,7 +18,7 @@ Dungeon_Game is a dungeon game which is deveploped from cs61B Pooject3. Its main
 - Dungeons can be saved and retrieved easily.
 - Press ':q' to quit you can choose to save or not.
 
-![](https://github.com/sbchengyiwei/Vicky_Blog/blob/main/images/ezgif.com-gif-maker%20(2).gif)
+![](https://github.com/sbchengyiwei/Vicky_Blog/blob/main/images/4.gif)
 
 - Random mazes make you more feel fresh and increase the difficulty.
 
